@@ -1,0 +1,8 @@
+@media (max-width: 768px) {
+    div.card-box {
+        background-color: #fff;
+        height: 100vh;
+        width: 100%;
+        margin: 0;
+    }
+}
